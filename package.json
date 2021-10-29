@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Ayla122/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/Ayla122/Employee-Tracker#readme"
+  "homepage": "https://github.com/Ayla122/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql2": "^2.1.0"
+  }
 }
