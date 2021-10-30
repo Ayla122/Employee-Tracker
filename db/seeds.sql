@@ -23,6 +23,6 @@ VALUES
 ('Britney', 'Brown', 4, null),
 ('Jess', 'Jones', 3, 3),
 ('Tammy', 'Taylor', 6, null),
-('Sandra', 'Smith', 5, 6),
+('Sandra', 'Smith', 5, 5),
 ('Laura', 'Li', 7, null),
 ('Gemma', 'Gorp', 8, 7);
